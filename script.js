@@ -322,36 +322,24 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            text: '💕',
+            image: './images/36290a78-b4eb-46db-b402-d4654b0f4bb9.jpeg'
         },
         {
-            text: 'Birthday Moment 🎂',
-            image: './images/photo2.jpg'
+            text: '🎂',
+            image: './images/7436f4ee-5c7d-48fe-bd50-14d58b6a7092.jpeg'
         },
         {
-            text: 'Adventure Time 🌟',
-            image: './images/photo3.jpg'
+            text: '💖',
+            image: './images/AF570591-836D-4C8B-A0DD-0AE6435A619F.png'
         },
         {
-            text: 'Cozy Together ❤️',
-            image: './images/photo4.jpg'
+            text: '😘',
+            image: './images/images/IMG_6480.jpeg'
         },
         {
-            text: 'Sweet Memories 🥰',
-            image: './images/photo5.jpg'
-        },
-        {
-            text: 'Laugh Together 😂',
-            image: './images/photo6.jpg'
-        },
-        {
-            text: 'Perfect Day ☀️',
-            image: './images/photo7.jpg'
-        },
-        {
-            text: 'Love Forever 💖',
-            image: './images/photo8.jpg'
+            text: '🥰',
+            image: './images/images/IMG_6511.jpeg'
         }
     ];
     
