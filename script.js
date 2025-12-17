@@ -323,7 +323,7 @@ function startPhotoShow() {
     const photos = [
         {
             text: '💕',
-            image: './images/36290a78-b4eb-46db-b402-d4654b0f4bb9.jpeg'
+            image: './images/3aeb170d-d0b2-45f4-9639-37d464face07.jpeg'
         },
         {
             text: '🎂',
@@ -335,11 +335,11 @@ function startPhotoShow() {
         },
         {
             text: '😘',
-            image: './images/images/IMG_6480.jpeg'
+            image: './images/IMG_6480.jpeg'
         },
         {
             text: '🥰',
-            image: './images/images/IMG_6511.jpeg'
+            image: './images/IMG_6511.jpeg'
         }
     ];
     
